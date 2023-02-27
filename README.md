@@ -1,5 +1,6 @@
 # hotel_crawling
-Crawling script for Booking.com
+A snip of hostel trend after Covid-19 raging. 
+A side project that crawling script about properties infomation at the beginning of 2023 on Booking.com.
 
 
 ## Getting Started
