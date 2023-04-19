@@ -3,6 +3,10 @@ A snip of hostel trend after Covid-19 raging.
 A side project that crawling script about properties infomation at the beginning of 2023 on Booking.com.
 
 
+## Author
+Finn Ou
+
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
@@ -16,6 +20,24 @@ List of Requirement for the project:
 ### Setting up webdriver (in Chinese)
 - selenium start-up: https://www.learncodewithmike.com/2020/05/python-selenium-scraper.html
 
+### Materials
+#### **Main Source**
+1. df_booking
+2. df_booking_detail
+
+#### **Main Output**
+1. 住宿標的基本資訊 properties_info
+2. 住宿標的詳細資訊 properties_details
+3. 住宿標的子評分 properties_subscores
+
+#### **Step by Step**
+0. Setting up
+1. Data Collecting
+2. Data Cleaning
+3. Data Transformed
+4. Data Modeling and Structure
+5. Explore Data Analysis
+
 ### Supplements
 #### Selenium & BeautifulSoup (in Chinese)
 - selenium youtube materials: https://www.youtube.com/watch?v=MQH4Rau_F_A
@@ -28,5 +50,4 @@ List of Requirement for the project:
 #### Jieba (in Chinese)
 - text mining in chinese: https://clay-atlas.com/blog/2019/09/23/python-chinese-tutorial-tokenizer-jieba/ 
 
-## Author
-Finn Ou
+
