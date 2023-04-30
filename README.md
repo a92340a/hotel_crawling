@@ -29,14 +29,14 @@ List of Requirement for the project:
 1. 住宿標的基本資訊 properties_info
 2. 住宿標的詳細資訊 properties_details
 3. 住宿標的子評分 properties_subscores
+4. 地理區彙總熱門資訊 area_hots
 
 #### **Step by Step**
 0. Setting up
 1. Data Collecting
 2. Data Cleaning
-3. Data Transformed
-4. Data Modeling and Structure
-5. Explore Data Analysis
+3. Data Modeling and Structure
+4. Explore Data Analysis
 
 ### Supplements
 #### Selenium & BeautifulSoup (in Chinese)
